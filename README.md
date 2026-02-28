@@ -22,6 +22,6 @@ This project was collaboratively developed by:
 ## Submission Links
 - **Deployment Link:** [Live Application](https://bussinesscontextmemoryaiengine.vercel.app/welcome)
 - **GitHub Project Repository:** [Business Context Memory AI Engine](https://github.com/bhavana679/Bussiness-Context-Memory-AI-Engine)
-- **Video Demonstration:** `[Video Link Here]`
+- **Video Demonstration:** [Demo Video Link](https://drive.google.com/file/d/19HMItjrjSmaTJ0sn5NWgufKnO4wsx-hB/view?usp=sharing)
 
 ---
